@@ -1,0 +1,11 @@
+Django==5.1.7
+djangorestframework==3.15.0
+django-cors-headers==4.7.0
+requests==2.31.0
+beautifulsoup4==4.12.3
+python-owasp-zap-v2.4==0.0.21
+safety==2.3.5
+requests-html>=0.10.0,<0.11.0
+lxml>=5.0.0,<6.0.0
+lxml_html_clean>=0.4.0,<0.5.0
+coreapi>=2.3.3,<2.4.0 
